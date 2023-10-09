@@ -82,7 +82,7 @@
     , "https://nouveau-europresse-com.proxy.scd.univ-tours.fr/*"
     , "https://nouveau-europresse-com.federation.unimes.fr/*"
     , "https://nouveau-europresse-com.ezp.lib.cam.ac.uk/*"
-    , "https://nouveau-europresse-com.extranet.enpc.fr/*"
+    , "https://https://nouveau-europresse-com.extranet.enpc.fr/Login/?ReturnUrl=%2fSearch%2fReading/*"
     , "https://nouveau-europresse-com.scd-proxy.univ-brest.fr/*"
     , "https://nouveau-europresse-com-s.docadis.univ-tlse3.fr/*"
     , "https://nouveau-europresse-com.ezproxy.univ-orleans.fr/*"
@@ -407,7 +407,7 @@
         },
         {
           "name": "École des Ponts ParisTech",
-          "AUTH_URL": "https://extranet.enpc.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=umiv"
+          "AUTH_URL": "https://extranet.enpc.fr/login?url=https://url=https://nouveau.europresse.com/access/ip/default.aspx?un=umiv"
         },
         {
           "name": "INSA Rennes",
